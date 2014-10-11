@@ -1,0 +1,50 @@
+
+.mycode {
+   white-space: pre-wrap;       /* css-3 */
+ white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ white-space: -pre-wrap;      /* Opera 4-6 */
+ white-space: -o-pre-wrap;    /* Opera 7 */
+ word-wrap: break-word;  
+ white-space:nowrap;
+
+  margin: 15px auto !important;
+
+  text-align: left;
+  font-size: 0.55em;
+  font-family: monospace;
+  line-height: 1.2em;
+  padding: 15px !important;
+
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.3);
+}
+
+.m-b {
+  margin-bottom: 15px;
+}
+.m-b-none {
+  margin-bottom: 0;
+}
+.m-b-xs {
+  margin-bottom: 5px;
+}
+.m-b-sm {
+  margin-bottom: 10px;
+}
+.m-b-lg {
+  margin-bottom: 20px;
+}
+.m-b-n {
+  margin-bottom: -15px;
+}
+.m-b-n-xxs {
+  margin-bottom: -1px;
+}
+.m-b-n-xs {
+  margin-bottom: -5px;
+}
+.m-b-n-sm {
+  margin-bottom: -10px;
+}
+.m-b-n-lg {
+  margin-bottom: -20px;
+}
